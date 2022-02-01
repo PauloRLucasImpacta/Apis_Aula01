@@ -1,2 +1,5 @@
 # Apis_Aula01
-Repositório para a calculadora de IMC
+Atividade Individual
+
+O mais importante é fazer, se não funcionar vou conseguir ver a lógica de implementação de cada um
+Enviar apenas o link do github, nada de enviar arquivo ZIP com o código
